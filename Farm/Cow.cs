@@ -12,7 +12,7 @@ namespace Farm
 
         public override void Speak()
         {
-            Console.WriteLine($"I am a {AnimalName} and I'll become your favorite steaks sooon!");
+            Console.WriteLine($"I am a {AnimalName} and I'll become your favorite steak soon!");
         }
 
         public void SlaughterHouse()
